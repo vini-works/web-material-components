@@ -1,5 +1,5 @@
 # googlemdc - web material components
-[know codelabs by Google]https://codelabs.developers.google.com/codelabs/mdc-101-web/#0
+[know codelabs by Google](https://codelabs.developers.google.com/codelabs/mdc-101-web/#0)
 > Introduction: 	
 Material Components (MDC) help developers implement Material Design. Created by a team of engineers and UX designers at Google, MDC features dozens of beautiful and functional UI components and is available for Android, iOS, web and Flutter.
 material.io/develop
